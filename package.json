@@ -1,0 +1,24 @@
+{
+  "name": "connect-peer-module",
+  "version": "1.0.6",
+  "description": "This is a p2p module",
+  "main": "index.js",
+  "keywords": [
+    "npm"
+  ],
+  "requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "author": "rik",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.0.1",
+    "get-browser-rtc": "^1.0.0",
+    "inherits": "^2.0.1",
+    "randombytes": "^2.0.3",
+    "readable-stream": "^2.3.4"
+  },
+  "devDependencies": {},
+  "types": "index.d.ts"
+}
